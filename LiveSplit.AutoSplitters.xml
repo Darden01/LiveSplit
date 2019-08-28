@@ -6500,4 +6500,14 @@
     <Type>Script</Type>
     <Description>Auto Splitting and Load Removal are available. (by Robin/Sobinist)</Description>
   </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>MineRalph</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/Darden01/LiveSplit-MineRalph-asl/master/mineralph.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Autosplitter for MineRalph</Description>
+  </AutoSplitter>
 </AutoSplitters>
